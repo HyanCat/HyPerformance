@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'HyPerformance_Example' do
+  pod 'HyPerformance', :path => '../'
+
+  target 'HyPerformance_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
