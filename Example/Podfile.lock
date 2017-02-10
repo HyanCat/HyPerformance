@@ -1,0 +1,16 @@
+PODS:
+  - HyPerformance (0.1.0)
+
+DEPENDENCIES:
+  - HyPerformance (from `../`)
+
+EXTERNAL SOURCES:
+  HyPerformance:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HyPerformance: ade65d61b3289f295659d6b0f5cca3dda434c75c
+
+PODFILE CHECKSUM: f577b45c716f9e0fdeca8fb1e20f764d6bd06efa
+
+COCOAPODS: 1.2.0
